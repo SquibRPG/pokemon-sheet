@@ -1,0 +1,45 @@
+# Pocket Creature Character Sheet (Fan Tool)
+
+A small browser-based character sheet / helper for a tabletop-style creature-collecting game.
+Runs locally in your browser (static HTML/CSS/JS + JSON data).
+
+## What this is
+- A **fan-made utility** for managing character/party data.
+- A **static site** (no server) intended for personal use and small groups.
+
+## What this is not
+- **Not an official product**.
+- **Not affiliated with, endorsed by, or sponsored by** Nintendo, Game Freak, or The Pokémon Company.
+- **Not a game client**, ROM, emulator, or distribution of any game files.
+
+## IP / Trademark Notice
+Pokémon and related names are trademarks of Nintendo, Game Freak, and The Pokémon Company.
+This repository is a **non-commercial fan project** and is provided for **educational and personal use**.
+
+## Content Policy (important)
+To reduce IP risk, this project intentionally does **not** include:
+- Game sprites, official artwork, screenshots, anime/manga panels
+- Audio/music from official games/shows
+- ROMs, ISO files, save files, or decrypted game assets
+- Datamined proprietary assets or text dumps from commercial releases
+
+If you fork or contribute, please avoid adding the above.
+
+## Data Disclaimer
+Any creature names, move names, or ability names that appear are used only for
+identification/reference in a fan context. If you prefer, you can replace names
+with your own original setting terminology.
+
+## License
+Code in this repository is licensed under the **MIT License** (see `LICENSE`).
+
+> Note: The MIT license applies to the code you wrote. It does **not** grant rights
+> to third-party trademarks or copyrighted material.
+
+## Quick Start
+1. Download or clone the repo
+2. Open `index.html` in a browser (or use a simple local server)
+
+### Recommended local server (avoids browser fetch restrictions)
+```bash
+python -m http.server 8000
