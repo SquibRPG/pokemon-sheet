@@ -1,0 +1,306 @@
+{
+  "blaze": {
+    "id": "blaze",
+    "name": "Blaze",
+    "sources": ["native", "role"],
+    "roles": ["striker"],
+    "unlocksAt": 4,
+    "description": "When this Pokémon is at low HP, its Fire-type moves deal an extra damage die."
+  },
+
+  "intimidate": {
+    "id": "intimidate",
+    "name": "Intimidate",
+    "sources": ["native", "role"],
+    "roles": ["anchor", "manipulator"],
+    "unlocksAt": 4,
+    "description": "When this Pokémon enters battle, nearby foes suffer reduced Attack."
+  }, 
+  
+  "keen_eye": {
+    "id": "keen_eye",
+    "name": "Keen Eye",
+    "sources": ["native"],
+    "roles": [],
+    "unlocksAt": 4,
+    "description": "This Pokémon cannot have its accuracy reduced and ignores effects that would obscure its vision."
+  }, 
+
+   "infiltrator": {
+    "id": "infiltrator",
+    "name": "Infiltrator",
+    "sources": ["native", "role"],
+    "roles": ["manipulator", "striker"],
+    "unlocksAt": 4,
+    "description": "This Pokémon ignores barriers, screens, and similar protective effects when using its moves."
+  }, 
+
+   "own_tempo": {
+    "id": "own_tempo",
+    "name": "Own Tempo",
+    "sources": ["native"],
+    "roles": [],
+    "unlocksAt": 4,
+    "description": "This Pokémon cannot become confused and ignores effects that would force it to act erratically."
+  }, 
+  "steadfast": {
+    "id": "steadfast",
+    "name": "Steadfast",
+    "sources": ["native", "role"],
+    "roles": [],
+    "unlocksAt": 4,
+    "description": "This Pokémon's Speed increases by +1 each time it flinches."
+  }, 
+  "inner_focus": {
+    "id": "inner_focus",
+    "name": "Inner Focus",
+    "sources": ["native", "role"],
+    "roles": ["anchor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon cannot flinch and is immune to effects that would cause it to flinch."
+  }, 
+  "prankster": {
+    "id": "prankster",
+    "name": "Prankster",
+    "sources": ["native", "role"],
+    "roles": ["manipulator"],
+    "unlocksAt": 4,
+    "description": "This Pokémon's status moves can be used as reactions"
+  }, 
+  "flash_fire": {
+    "id": "flash_fire",
+    "name": "Flash Fire",
+    "sources": ["native", "role"],
+    "roles": ["anchor", "manipulator"],
+    "unlocksAt": 4,
+    "description": "This Pokémon is immune to Fire-type moves and its next Fire-type move deals an increased damage die if it has been hit by one."
+  }, 
+  "flame_body": {
+    "id": "flame_body",
+    "name": "Flame Body",
+    "sources": ["native", "role"],
+    "roles": ["manipulator", "anchor"],
+    "unlocksAt": 4,
+    "description": "When a foe makes physical contact with this Pokémon, there is a chance they will be burned. (roll a 10 on a conditional die)"
+  }, 
+  "water_absorb": {
+    "id": "water_absorb",
+    "name": "Water Absorb",
+    "sources": ["native", "role"],
+    "roles": ["anchor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon heals when hit by a Water-type move instead of taking damage."
+  }, 
+  "chlorophyll": {
+    "id": "chlorophyll",
+    "name": "Chlorophyll",
+    "sources": ["native", "role"],
+    "roles": ["reactor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon's Speed increases by +1 in sunny weather."
+  }, 
+  "sand_rush": {
+    "id": "sand_rush",
+    "name": "Sand Rush",
+    "sources": ["native", "role"],
+    "roles": ["reactor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon's Speed increases by +1 in a sandstorm."
+  }, 
+  "swarm": {
+    "id": "swarm",
+    "name": "Swarm",
+    "sources": ["native", "role"],
+    "roles": ["striker"],
+    "unlocksAt": 4,
+    "description": "When this Pokémon is at low HP (25%), its Bug-type moves deal an extra damage die."
+  }, 
+  "static": {
+    "id": "static",
+    "name": "Static",
+    "sources": ["native", "role"],
+    "roles": ["manipulator"],
+    "unlocksAt": 4,
+    "description": "When a foe makes physical contact with this Pokémon, there is a chance they will be paralyzed. (roll a 10 on a conditional die)"
+  }, 
+  "levitate": {
+    "id": "levitate",
+    "name": "Levitate",
+    "sources": ["native"],
+    "roles": [],
+    "unlocksAt": 4,
+    "description": "This Pokémon is immune to Ground-type moves and effects."
+  }, 
+  "shell_armor": {
+    "id": "shell_armor",
+    "name": "Shell Armor",
+    "sources": ["native", "role"],
+    "roles": ["anchor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon cannot be struck by critical hits."
+  }, 
+  "rock_head": {
+    "id": "rock_head",
+    "name": "Rock Head",
+    "sources": ["native", "role"],
+    "roles": ["striker"],
+    "unlocksAt": 4,
+    "description": "This Pokémon does not take recoil damage from moves that have recoil."
+  }, 
+  "natural_cure": {
+    "id": "natural_cure",
+    "name": "Natural Cure",
+    "sources": ["native", "role"],
+    "roles": ["balancer"],
+    "unlocksAt": 4,
+    "description": "This Pokémon heals from status conditions when it switches out of battle."
+  }, 
+  "serene_grace": {
+    "id": "serene_grace",
+    "name": "Serene Grace",
+    "sources": ["native", "role"],
+    "roles": ["striker", "manipulator"],
+    "unlocksAt": 4,
+    "description": "This Pokémon's moves have an increased chance of causing secondary effects. (8-10 on conditional die.)"
+  }, 
+  "friend_guard": {
+    "id": "friend_guard",
+    "name": "Friend Guard",
+    "sources": ["native", "role"],
+    "roles": ["anchor"],
+    "unlocksAt": 4,
+    "description": "Allies of this Pokémon take reduced damage from attacks."
+  }, 
+  "unaware": {
+    "id": "unaware",
+    "name": "Unaware",
+    "sources": ["native", "role"],
+    "roles": ["anchor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon ignores all foe's stat changes when attacking or being attacked."
+  }, 
+  "cloud_nine": {
+    "id": "cloud_nine",
+    "name": "Cloud Nine",
+    "sources": ["native", "role"],
+    "roles": ["balancer", "manipulator"],
+    "unlocksAt": 4,
+    "description": "This Pokémon negates all weather effects while it is in battle."
+  }, 
+  "run_away": {
+    "id": "run_away",
+    "name": "Run Away",
+    "sources": ["native"],
+    "roles": [],
+    "unlocksAt": 4,
+    "description": "This Pokémon's movement speed is increased by 10 feet"
+  }, 
+  "adaptability": {
+    "id": "adaptability",
+    "name": "Adaptability",
+    "sources": ["native", "role"],
+    "roles": ["striker", "mystic"],
+    "unlocksAt": 4,
+    "description": "This Pokémon's moves of its primary type deal an extra damage die."
+  }, 
+  "anticipation": {
+    "id": "anticipation",
+    "name": "Anticipation",
+    "sources": ["native", "role"],
+    "roles": ["balancer"],
+    "unlocksAt": 4,
+    "description": "This Pokémon senses when a foe has a move that is super effective against it or has a one-hit KO move."
+  }, 
+  "clear_body": {
+    "id": "clear_body",
+    "name": "Clear Body",
+    "sources": ["native", "role"],
+    "roles": ["anchor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon's stats cannot be lowered by foe's moves or abilities."
+  }, 
+  "light_metal": {
+    "id": "light_metal",
+    "name": "Light Metal",
+    "sources": ["native", "role"],
+    "roles": [],
+    "unlocksAt": 4,
+    "description": "This Pokémon's weight is halved, affecting moves and abilities that depend on weight."
+  }, 
+  "bulletproof": {
+    "id": "bulletproof",
+    "name": "Bulletproof",
+    "sources": ["native", "role"],
+    "roles": ["anchor", "manipulator"],
+    "unlocksAt": 4,
+    "description": "This Pokémon is immune to ball and bomb moves."
+  }, 
+  "soundproof": {
+    "id": "soundproof",
+    "name": "Soundproof",
+    "sources": ["native", "role"],
+    "roles": ["anchor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon is immune to sound-based moves and effects."
+  }, 
+  "overcoat": {
+    "id": "overcoat",
+    "name": "Overcoat",
+    "sources": ["native", "role"],
+    "roles": ["anchor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon is immune to weather effects and powder-based moves."
+  }, 
+  "torrent": {
+    "id": "torrent",
+    "name": "Torrent",
+    "sources": ["native", "role"],
+    "roles": ["striker"],
+    "unlocksAt": 4,
+    "description": "When this Pokémon is at low HP, its Water-type moves deal an extra damage die."
+  }, 
+  "competitive": {
+    "id": "competitive",
+    "name": "Competitive",
+    "sources": ["native", "role"],
+    "roles": ["mystic", "anchor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon's Special Attack increases by +2 whenever one of its stats is lowered by a foe."
+  }, 
+  "stall": {
+    "id": "stall",
+    "name": "Stall",
+    "sources": ["native", "role"],
+    "roles": ["manipulator"],
+    "unlocksAt": 4,
+    "description": "This Pokémon acts later in the turn order than normal."
+  }, 
+  "justified": {
+    "id": "justified",
+    "name": "Justified",
+    "sources": ["native"],
+    "roles": [],
+    "unlocksAt": 4,
+    "description": "When this Pokémon is hit by a Dark-type move, its Attack increases by +1."
+  }, 
+  "klutz": {
+    "id": "klutz",
+    "name": "Klutz",
+    "sources": ["native"],
+    "roles": [],
+    "unlocksAt": 4,
+    "description": "This Pokémon cannot use held items in battle."
+  }, 
+  "rattled": {
+    "id": "rattled",
+    "name": "Rattled",
+    "sources": ["native", "role"],
+    "roles": ["reactor"],
+    "unlocksAt": 4,
+    "description": "This Pokémon's Speed increases by +1 whenever it is hit by a Bug, Ghost, or Dark-type move."
+  }
+
+  
+
+
+}

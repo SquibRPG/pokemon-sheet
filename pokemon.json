@@ -1,0 +1,887 @@
+{
+  "bulbasaur": {
+    "id": "bulbasaur",
+    "dex": 1,
+    "name": "Bulbasaur",
+    "form": null,
+    "baseStats": {
+      "atk": 49,
+      "def": 49,
+      "spAtk": 65,
+      "spDef": 65,
+      "hp": 45,
+      "spd": 45,
+      "man": 16
+    },
+    "moves": {
+"native": ["tackle", 
+"growl",
+"vine_whip",
+"growth",
+"leech_seed",
+"razor_leaf",
+"poison_powder",
+"sleep_powder",
+"seed bomb",
+"take_down",
+"sweet scent",
+"synthesis",
+"worry_seed",
+"power whip",
+"solar_beam"],
+      "tm": ["protect"]
+    },
+    "abilities": {
+      "primary": ["overgrow"],
+      "secondary": [],
+      "hidden": ["chlorophyll"]
+    },
+    "notes": "Gen 1 starter"
+  },
+
+  "charmander": {
+    "id": "charmander",
+    "dex": 4,
+    "name": "Charmander",
+    "form": null,
+    "baseStats": {
+      "atk": 52,
+      "def": 43,
+      "spAtk": 60,
+      "spDef": 50,
+      "hp": 39,
+      "spd": 65,
+      "man": 16
+    },
+    "moves": {
+      "native": ["scratch", "ember", "smokescreen", "dragon_breath",  "fire fang", "slash", "flamethrower", "fire spin", "inferno", "flare blitz", "scary_face"],
+      "tm": ["protect"]
+    },
+    "abilities": {
+      "primary": ["blaze"],
+      "secondary": [],
+      "hidden": ["solar_power"]
+    },
+    "notes": "Gen 1 starter"
+  },
+
+  "squirtle": {
+    "id": "squirtle",
+    "dex": 7,
+    "name": "Squirtle",
+    "form": null,
+    "baseStats": {
+      "atk": 48,
+      "def": 65,
+      "spAtk": 50,
+      "spDef": 64,
+      "hp": 44,
+      "spd": 43,
+      "man": 16
+    },
+    "moves": {
+      "native": ["tackle", "tail_whip", "water gun", "withdraw", "bubble", "bite", "water pulse", "protect", "rain dance", "rapid spin", "aqua tail", "shell smash", "iron defense", "hydro pump", "wave crash"],
+      "tm": ["protect"]
+    },
+    "abilities": {
+      "primary": ["torrent"],
+      "secondary": [],
+      "hidden": ["rain_dish"]
+    },
+    "notes": "Gen 1 starter"
+  },
+
+  "vulpix": {
+    "id": "vulpix",
+    "dex": 37,
+    "name": "Vulpix",
+    "form": "Kanto",
+    "baseStats": {
+      "atk": 41,
+      "def": 40,
+      "spAtk": 50,
+      "spDef": 65,
+      "hp": 38,
+      "spd": 65,
+      "man": 15
+    },
+    "moves": {
+      "native": ["ember", 
+      "tail_whip",
+      "quick_attack", 
+      "disable", 
+      "spite",
+      "incinerate",
+      "confuse_ray",
+      "will_o_wisp",
+      "extrasensory",
+      "flamethrower", 
+      "imprison", 
+      "fire_spin", 
+      "safeguard", 
+      "inferno", 
+      "fire_blast"],
+      "tm": ["protect"]
+    },
+    "abilities": {
+      "primary": ["flash_fire"],
+      "secondary": [],
+      "hidden": ["drought"]
+    },
+    "notes": "Kantonian Vulpix"
+  },
+  "espurr": {
+  "id": "espurr",
+  "dex": 677,
+  "name": "Espurr",
+  "form": null,
+  "baseStats": {
+    "atk": 48,
+    "def": 54,
+    "spAtk": 63,
+    "spDef": 60,
+    "hp": 62,
+    "spd": 68,
+    "man": 9
+  },
+  "moves": {
+    "native": ["leer",
+  "scratch",
+  "fake_out",
+  "disarming_voice",
+  "confusion",
+  "covet",
+  "psybeam",
+  "light_screen",
+  "reflect",
+  "psyshock",
+  "tackle",
+  "teleport",
+  "fake_tears",
+  "swift" ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["keen_eye", "infiltrator"],
+    "secondary": [],
+    "hidden": ["own_tempo"]
+  },
+  "notes": ""
+  }, 
+  "riolu": {
+  "id": "riolu",
+  "dex": 447,
+  "name": "Riolu",
+  "form": null,
+  "baseStats": {
+    "atk": 70,
+    "def": 40,
+    "spAtk": 70,
+    "spDef": 40,
+    "hp": 40,
+    "spd": 60,
+    "man": 5
+  },
+  "moves": {
+    "native": [
+      "endure",
+      "quick_attack",
+      "feint",
+      "metal_claw",
+      "counter",
+      "work_up",
+      "rock_smash",
+      "vacuum_wave",
+      "screech",
+      "quick_guard",
+      "force_palm",
+      "swords_dance",
+      "helping_hand",
+      "copycat",
+      "final_gambit",
+      "reversal"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["steadfast", "inner_focus"],
+    "secondary": [],
+    "hidden": ["prankster"]
+  },
+  "notes": ""
+}, 
+"litwick": {
+  "id": "litwick",
+  "dex": 607,
+  "name": "Litwick",
+  "form": null,
+  "baseStats": {
+    "atk": 30,
+    "def": 55,
+    "spAtk": 65,
+    "spDef": 55,
+    "hp": 50,
+    "spd": 20,
+    "man": 13
+  },
+  "moves": {
+    "native": [
+      "astonish",
+      "smog",
+      "ember",
+      "minimize",
+      "confuse_ray",
+      "hex",
+      "will_o_wisp",
+      "fire_spin",
+      "night_shade",
+      "curse",
+      "shadow_ball",
+      "inferno",
+      "imprison",
+      "pain_split",
+      "overheat",
+      "memento"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["flash_fire", "flame_body"],
+    "secondary": [],
+    "hidden": ["infiltrator"]
+  },
+  "notes": ""
+}, 
+"vulpix_alolan": {
+  "id": "vulpix_alolan",
+  "dex": 37,
+  "name": "Vulpix-A",
+  "form": "alolan",
+  "baseStats": {
+    "atk": 41,
+    "def": 40,
+    "spAtk": 50,
+    "spDef": 65,
+    "hp": 38,
+    "spd": 65,
+    "man": 12
+  },
+  "moves": {
+    "native": [
+      "powder_snow",
+      "tail_whip",
+      "disable",
+      "ice_shard",
+      "spite",
+      "icy_wind",
+      "confuse_ray",
+      "aurora_beam",
+      "extrasensory",
+      "ice_beam",
+      "imprison",
+      "mist",
+      "aurora_veil",
+      "freeze_dry",
+      "blizzard"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["snow_cloak"],
+    "secondary": [],
+    "hidden": ["snow_warning"]
+  },
+  "notes": ""
+}, 
+"fuecoco": {
+  "id": "fuecoco",
+  "dex": 909,
+  "name": "Fuecoco",
+  "form": null,
+  "baseStats": {
+    "atk": 45,
+    "def": 59,
+    "spAtk": 63,
+    "spDef": 40,
+    "hp": 67,
+    "spd": 36,
+    "man": 11
+  },
+  "moves": {
+    "native": [
+      "ember",
+      "leer",
+      "tackle",
+      "round",
+      "bite",
+      "incinerate",
+      "yawn",
+      "snarl",
+      "roar",
+      "flamethrower",
+      "hyper_voice",
+      "fire_blast"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["blaze"],
+    "secondary": [],
+    "hidden": ["unaware"]
+  },
+  "notes": ""
+}, 
+"happiny": {
+  "id": "happiny",
+  "dex": 440,
+  "name": "Happiny",
+  "form": null,
+  "baseStats": {
+    "atk": 5,
+    "def": 5,
+    "spAtk": 15,
+    "spDef": 65,
+    "hp": 100,
+    "spd": 30,
+    "man": 7
+  },
+  "moves": {
+    "native": [
+      "copycat",
+      "pound",
+      "defense_curl",
+      "sweet_kiss",
+      "disarming_voice",
+      "covet",
+      "charm"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["natural_cure", "serene_grace"],
+    "secondary": [],
+    "hidden": ["friend_guard"]
+  },
+  "notes": ""
+}, 
+"swablu": {
+  "id": "swablu",
+  "dex": 333,
+  "name": "Swablu",
+  "form": null,
+  "baseStats": {
+    "atk": 40,
+    "def": 60,
+    "spAtk": 40,
+    "spDef": 75,
+    "hp": 45,
+    "spd": 50,
+    "man": 6
+  },
+  "moves": {
+    "native": [
+      "growl",
+      "peck",
+      "disarming_voice",
+      "mist",
+      "fury_attack",
+      "round",
+      "dragon_breath",
+      "safeguard",
+      "sing",
+      "cotton_guard",
+      "take_down",
+      "moonblast",
+      "perish_song"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["natural_cure"],
+    "secondary": [],
+    "hidden": ["cloud_nine"]
+  },
+  "notes": ""
+}, 
+"beldum": {
+  "id": "beldum",
+  "dex": 374,
+  "name": "Beldum",
+  "form": null,
+  "baseStats": {
+    "atk": 55,
+    "def": 80,
+    "spAtk": 35,
+    "spDef": 60,
+    "hp": 40,
+    "spd": 30,
+    "man": 0
+  },
+  "moves": {
+    "native": [
+      "tackle"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["clear_body"],
+    "secondary": [],
+    "hidden": ["light_metal"]
+  },
+  "notes": ""
+}, 
+"jangmo_o": {
+  "id": "jangmo_o",
+  "dex": 782,
+  "name": "Jangmo-o",
+  "form": null,
+  "baseStats": {
+    "atk": 55,
+    "def": 65,
+    "spAtk": 45,
+    "spDef": 45,
+    "hp": 45,
+    "spd": 45,
+    "man": 10
+  },
+  "moves": {
+    "native": [
+      "leer",
+      "tackle",
+      "protect",
+      "dragon_tail",
+      "scary_face",
+      "headbutt",
+      "work_up",
+      "screech",
+      "iron_defense",
+      "dragon_claw",
+      "noble_roar",
+      "dragon_dance",
+      "outrage"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["bulletproof", "soundproof"],
+    "secondary": [],
+    "hidden": ["overcoat"]
+  },
+  "notes": ""
+}, 
+"eevee": {
+  "id": "eevee",
+  "dex": 133,
+  "name": "Eevee",
+  "form": null,
+  "baseStats": {
+    "atk": 55,
+    "def": 50,
+    "spAtk": 45,
+    "spDef": 65,
+    "hp": 55,
+    "spd": 55,
+    "man": 8
+  },
+  "moves": {
+    "native": [
+      "covet",
+      "growl",
+      "helping_hand",
+      "tackle",
+      "tail_whip",
+      "sand_attack",
+      "quick_attack",
+      "baby_doll_eyes",
+      "swift",
+      "bite",
+      "copycat",
+      "baton_pass",
+      "take_down",
+      "charm",
+      "double_edge",
+      "last_resort"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["run_away", "adaptability"],
+    "secondary": [],
+    "hidden": ["anticipation"]
+  },
+  "notes": ""
+}, 
+"gimmighoul": {
+  "id": "gimmighoul",
+  "dex": 999,
+  "name": "Gimmighoul",
+  "form": null,
+  "baseStats": {
+    "atk": 30,
+    "def": 25,
+    "spAtk": 75,
+    "spDef": 45,
+    "hp": 45,
+    "spd": 80,
+    "man": 4
+  },
+  "moves": {
+    "native": [
+      "astonish",
+      "tackle", 
+      "confuse_ray"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["rattled"],
+    "secondary": [],
+    "hidden": []
+  },
+  "notes": ""
+}, 
+"piplup": {
+  "id": "piplup",
+  "dex": 393,
+  "name": "Piplup",
+  "form": null,
+  "baseStats": {
+    "atk": 51,
+    "def": 53,
+    "spAtk": 61,
+    "spDef": 56,
+    "hp": 53,
+    "spd": 40, 
+    "man":12
+  },
+  "moves": {
+    "native": [
+      "peck",
+      "pound",
+      "growl",
+      "water gun",
+      "charm",
+      "bubble beam",
+      "swagger",
+      "fury_attack",
+      "brine",
+      "whirlpool",
+      "mist",
+      "drill peck",
+      "hydro pump"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["torrent"],
+    "secondary": [],
+    "hidden": ["defiant"]
+  },
+  "notes": ""
+}, 
+"sableye": {
+  "id": "sableye",
+  "dex": 302,
+  "name": "Sableye",
+  "form": null,
+  "baseStats": {
+    "atk": 75,
+    "def": 75,
+    "spAtk": 65,
+    "spDef": 65,
+    "hp": 50,
+    "spd": 50,
+    "man": 16
+  },
+  "moves": {
+    "native": [
+      "scratch",
+      "leer",
+      "fake_out",
+      "shadow sneak",
+      "disable",
+      "detect",
+      "night_shade",
+      "fury swipes",
+      "knock off",
+      "quash",
+      "shadow claw",
+      "mean look",
+      "power gem",
+      "zen headbutt",
+      "shadow_ball", 
+      "foul play"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["keen_eye", "stall"],
+    "secondary": [],
+    "hidden": ["prankster"]
+  },
+  "notes": ""
+}, 
+"growlithe": {
+  "id": "growlithe",
+  "dex": 58,
+  "name": "Growlithe",
+  "form": null,
+  "baseStats": {
+    "atk": 70,
+    "def": 45,
+    "spAtk": 70,
+    "spDef": 50,
+    "hp": 55,
+    "spd": 60,
+    "man": 13
+  },
+  "moves": {
+    "native": [
+      "leer",
+      "ember",
+      "howl",
+      "bite",
+      "flame wheel",
+      "helping hand",
+      "agility",
+      "fire fang",
+      "retaliate",
+      "crunch",
+      "take down",
+      "flamethrower",
+      "roar",
+      "play rough",
+      "reversal",
+      "flare blitz"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["intimidate", "flash_fire"],
+    "secondary": [],
+    "hidden": ["justified"]
+  },
+  "notes": ""
+}, 
+"fidough": {
+  "id": "fidough",
+  "dex": 926,
+  "name": "Fidough",
+  "form": null,
+  "baseStats": {
+    "atk": 55,
+    "def": 70,
+    "spAtk": 30,
+    "spDef": 55,
+    "hp": 37,
+    "spd": 65,
+    "man": 12
+  },
+  "moves": {
+    "native": [
+      "tackle",
+      "growl",
+      "lick",
+      "tail_whip",
+      "covet",
+      "bite",
+      "baby_doll_eyes",
+      "play_rough",
+      "baton_pass",
+      "work_up",
+      "roar",
+      "double_edge",
+      "charm",
+      "crunch",
+      "last_resort"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["own_tempo"],
+    "secondary": [],
+    "hidden": ["klutz"]
+  },
+  "notes": ""
+}, 
+"snubbul": {
+  "id": "snubbull",
+  "dex": 209,
+  "name": "Snubbull",
+  "form": null,
+  "baseStats": {
+    "atk": 80,
+    "def": 50,
+    "spAtk": 40,
+    "spDef": 40,
+    "hp": 60,
+    "spd": 30,
+    "man": 16
+  },
+  "moves": {
+    "native": [
+      "charm",
+      "fire_fang",
+      "growl",
+      "ice_fang",
+      "scary_face",
+      "tackle",
+      "tail_whip",
+      "thunder_fang",
+      "bite",
+      "lick",
+      "headbutt",
+      "roar",
+      "last_resort",
+      "play_rough",
+      "crunch",
+      "payback"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["intimidate", "run_away"],
+    "secondary": [],
+    "hidden": ["rattled"]
+  },
+  "notes": ""
+}, 
+"gastly": {
+  "id": "gastly",
+  "dex": 92,
+  "name": "Gastly",
+  "form": null,
+  "baseStats": {
+    "atk": 35,
+    "def": 30,
+    "spAtk": 100,
+    "spDef": 35,
+    "hp": 30,
+    "spd": 80,
+    "man": 19
+  },
+  "moves": {
+    "native": [
+      "confuse_ray",
+      "lick",
+      "hypnosis",
+      "confusion",
+      "shadow_sneak",
+      "curse",
+      "haze",
+      "icy_wind",
+      "dark_pulse",
+      "shadow_ball",
+      "perish_song", 
+      "dream_eater"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["levitate"],
+    "secondary": [],
+    "hidden": []
+  },
+  "notes": ""
+}, 
+"hisuian_growlithe": {
+  "id": "hisuian_growlithe",
+  "dex": 58,
+  "name": "Hisuian Growlithe",
+  "form": null,
+  "baseStats": {
+    "atk": 75,
+    "def": 45,
+    "spAtk": 65,
+    "spDef": 50,
+    "hp": 60,
+    "spd": 55,
+    "man": 5
+  },
+  "moves": {
+    "native": [
+      "ember",
+      "leer",
+      "howl",
+      "bite",
+      "flame_wheel",
+      "helping_hand",
+      "fire_fang",
+      "retaliate",
+      "crunch",
+      "take_down",
+      "flamethrower",
+      "roar",
+      "rock_slide",
+      "reversal",
+      "flare_blitz"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["intimidate", "flash_fire"],
+    "secondary": [],
+    "hidden": ["rock_head"]
+  },
+  "notes": ""
+}, 
+"tyranitar": {
+  "id": "tyranitar",
+  "dex": 248,
+  "name": "Tyranitar",
+  "form": null,
+  "baseStats": {
+    "atk": 134,
+    "def": 110,
+    "spAtk": 95,
+    "spDef": 100,
+    "hp": 100,
+    "spd": 61,
+    "man": 0
+  },
+  "moves": {
+    "native":[
+      "dark_pulse",
+      "fire_fang",
+      "ice_fang",
+      "iron_defense",
+      "leer",
+      "payback",
+      "rock_throw",
+      "tackle",
+      "thunder_fang",
+      "bite",
+      "scary_face",
+      "rock_slide",
+      "stomping_tantrum",
+      "screech",
+      "smack_down",
+      "crunch",
+      "earthquake",
+      "stone_edge",
+      "thrash",
+      "sandstorm",
+      "hyper_beam",
+      "giga_impact"
+    ],
+    "tm": []
+  },
+  "abilities": {
+    "primary": ["sand_stream"],
+    "secondary": [],
+    "hidden": ["unnerve"]
+  },
+  "notes": ""
+}
+
+
+
+
+
+
+
+
+  
+
+
+}
